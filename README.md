@@ -1,5 +1,5 @@
 # customer_segmentation
-# Customer Shopping Data Analysis
+
 
 ## 📊 Overview
 This project provides a detailed analysis of customer shopping behavior, product performance, and financial insights across multiple retail locations. The goal is to uncover actionable insights that drive **retail growth** and improve customer engagement.
